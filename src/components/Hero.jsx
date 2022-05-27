@@ -3,7 +3,7 @@ import logo from "../assets/logo.svg"
 const Hero = () => {
   return (
     <section>
-        <div className="section-container mb-40 px-10 pt-16">
+        <div className="section-container mb-40 pt-16">
             <img src={logo} className="mx-auto my-16" alt="Clipboard Logo" />
 
             <h3>A history of everything you copy</h3>
