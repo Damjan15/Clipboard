@@ -2,6 +2,7 @@ import AccessAnywhere from "./components/AccessAnywhere";
 import Features from "./components/Features";
 import Hero from "./components/Hero";
 import Snippets from "./components/Snippets";
+import Supercharge from "./components/Supercharge";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Snippets />
       <Features />
       <AccessAnywhere />
+      <Supercharge />
     </>
   );
 }

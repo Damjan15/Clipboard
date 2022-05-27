@@ -7,7 +7,7 @@ const Hero = () => {
             <img src={logo} className="mx-auto my-16" alt="Clipboard Logo" />
 
             <h3>A history of everything you copy</h3>
-            <p className="max-w-3xl mx-auto mb-10 text-2xl text-grayishBlue">Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices.</p>
+            <p className="section-content mb-10 text-2xl">Clipboard allows you to track and organize everything you copy. Instantly access your clipboard on all your devices.</p>
 
             {/* Button Container */}
             <div className="button-container">
