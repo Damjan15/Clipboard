@@ -5,7 +5,7 @@ const AccessAnywhere = () => {
     <section>
         <div className="section-container">
             <h3>Access Clipboard Anywhere</h3>
-            <p className="section-content mb-10">
+            <p className="section-content text-xl mb-10">
                 Whether you're on the go, or at your computer, you can access all your Clipboard snippets in a few clicks.
             </p>
 
