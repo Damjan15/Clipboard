@@ -11,8 +11,8 @@ const Hero = () => {
 
             {/* Button Container */}
             <div className="button-container">
-                <a href="#" className="p-4 px-8 rounded-full shadow-lg bg-strongCyan duration-200 hover:opacity-80">Download for IOS</a>
-                <a href="#" className="p-4 px-8 rounded-full shadow-lg bg-lightBlue duration-200 hover:opacity-80">Download for MAC</a>
+                <a href="/" className="p-4 px-8 rounded-full shadow-lg bg-strongCyan duration-200 hover:opacity-80">Download for IOS</a>
+                <a href="/" className="p-4 px-8 rounded-full shadow-lg bg-lightBlue duration-200 hover:opacity-80">Download for MAC</a>
             </div>
         </div>
     </section>

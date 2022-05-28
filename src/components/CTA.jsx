@@ -11,13 +11,13 @@ const CTA = () => {
         </p>
         <div className="button-container">
           <a
-            href="#"
+            href="/"
             className="p-4 px-8 rounded-full shadow-lg bg-strongCyan duration-200 hover:opacity-80"
           >
             Download for IOS
           </a>
           <a
-            href="#"
+            href="/"
             className="p-4 px-8 rounded-full shadow-lg bg-lightBlue duration-200 hover:opacity-80"
           >
             Download for MAC

@@ -24,7 +24,7 @@ const Footer = () => {
                 </div>
 
                 <div>
-                  <a href="/#" className="hover:text-strongCyan">
+                  <a href="/" className="hover:text-strongCyan">
                     Contact Us
                   </a>
                 </div>
@@ -32,13 +32,13 @@ const Footer = () => {
 
               <div className="flex flex-col space-y-4 text-center md:text-left">
                 <div>
-                  <a href="/#" className="hover:text-strongCyan">
+                  <a href="/" className="hover:text-strongCyan">
                     Privacy Policy
                   </a>
                 </div>
 
                 <div>
-                  <a href="/#" className="hover:text-strongCyan">
+                  <a href="/" className="hover:text-strongCyan">
                     Press Kit
                   </a>
                 </div>
@@ -46,7 +46,7 @@ const Footer = () => {
 
               <div className="flex flex-col space-y-4 text-center md:text-left">
                 <div>
-                  <a href="/#" className="hover:text-strongCyan">
+                  <a href="/" className="hover:text-strongCyan">
                     Install Guide
                   </a>
                 </div>
@@ -54,14 +54,14 @@ const Footer = () => {
             </div>
 
             <div className="flex justify-between w-32 py-1">
-              <a href="#">
+              <a href="/">
                 <img src={facebookIcon} className="duration-200 ficon" alt="" />
               </a>
-              <a href="#">
+              <a href="/">
                 <img src={twitterIcon} className="duration-200 ficon" alt="" />
               </a>
 
-              <a href="#">
+              <a href="/">
                 <img
                   src={instagramIcon}
                   className="duration-200 ficon"
